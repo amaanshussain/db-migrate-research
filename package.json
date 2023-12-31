@@ -1,0 +1,19 @@
+{
+  "name": "db-migrate-research",
+  "version": "1.0.0",
+  "description": "Use db-migrate to manage databases across platforms through migration files.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.6.5",
+    "uuid": "^9.0.1"
+  }
+}
